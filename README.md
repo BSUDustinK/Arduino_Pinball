@@ -1,0 +1,2 @@
+# Arduino_Pinball
+ ECE180 Final Project: Pinball Machine. This is the code for the pinball machine I have plans to add much more functionality and once I learn more C++, I plan to convert the various components, ie Drop Down Targets, Target Group, Flippers., etc., so that  it will be a modular plug and play system for other hobyists to be able to reuse the code and utilize it for their own custom machines.
